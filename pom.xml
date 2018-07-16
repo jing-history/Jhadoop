@@ -9,6 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>Jhadoop-sougou-pro</module>
+        <module>Jhadoop-peopleinfo-pro</module>
     </modules>
     <packaging>pom</packaging>
 
