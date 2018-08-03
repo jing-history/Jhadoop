@@ -10,6 +10,7 @@
     <modules>
         <module>Jhadoop-sougou-pro</module>
         <module>Jhadoop-peopleinfo-pro</module>
+        <module>Jhadoop-hive-ex</module>
     </modules>
     <packaging>pom</packaging>
 
